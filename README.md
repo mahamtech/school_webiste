@@ -1,1 +1,1 @@
-# school_webiste
+# school_website model
